@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! I'm Ananda Malheiros 👋
 
 <!--
-**anandamno/anandamno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer and I'm studying at [Rocketseat] (https://www.rocketseat.com.br/)
 
-Here are some ideas to get you started:
+#### Current stack
+- Main language: `Javascript`
+- Backend: `Nodejs`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- Layout Design: `Figma`
+- Version Code Control: `Git & Github`
+- Tools: `VsCode`, `Markdown`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- Email: anandamno@gmail.com
+- Linkedin: https://www.linkedin.com/in/ananda-malheiros
