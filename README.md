@@ -13,4 +13,4 @@ I'm a Web Developer and I'm studying at [Rocketseat] (https://www.rocketseat.com
 
 #### Contacts
 - Email: anandamno@gmail.com
-- Linkedin: https://www.linkedin.com/in/ananda-malheiros
+- Linkedin: [https://www.linkedin.com/in/ananda-malheiros](https://www.linkedin.com/in/ananda-malheiros-46bb9843/)
