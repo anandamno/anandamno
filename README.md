@@ -1,6 +1,5 @@
 ### Hi there! I'm Ananda Malheiros 👋
 
-<!--
 #### About
 I'm a Web Developer and I'm studying at [Rocketseat] (https://www.rocketseat.com.br/)
 
